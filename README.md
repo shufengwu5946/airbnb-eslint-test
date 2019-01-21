@@ -4,7 +4,7 @@
 
 https://eslint.org/docs/user-guide/getting-started
 
-## 后添加airbnb
+## 后添加airbnb eslint
 
 https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
 
